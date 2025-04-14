@@ -12,6 +12,7 @@ accompanied by
 The analysis includes a summary of findings, highlighting significant trends and relationships, such as the correlation between gender, passenger class, and survival rates.
 
 and also Includes a Jupyter Notebook that walks through the entire data analysis process — from data loading and cleaning, to exploratory data analysis (EDA), visualization, and model building,
+
 A PDF report that presents key findings and observations from the data.
 Various visualization methods (e.g., bar charts, histograms, and scatter plots) are used to effectively identify and communicate these insights. Each visual is an explanation of the patterns observed, helping to clarify the relationships between different features like age, fare, and class, and how they influenced survival outcomes.
 
